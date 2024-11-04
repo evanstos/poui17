@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rc
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# poui17
+Projeto Inicial Angular com as principais bibliotecas do POUI para a versão 17 do Angular
+>>>>>>> 0549074b17da9e88d0f2ea9e6aec4737699806d6
